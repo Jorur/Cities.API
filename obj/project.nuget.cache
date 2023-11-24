@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l5IurIX3bmsk83bcEVS5U/1zi785xrx/bef69/Eiwne2qGlQinn84iQ+/FilEVKmwN5faUwoInCHT5PxwWqcNQ==",
+  "dgSpecHash": "Bu0X2te0f7AK7wGJTDi/uNDvXXpSYW/Ash7hS1WxAuj5pSXw5qtZM+x8SYNJXVEV3IrKickWTf5zezjoE8jUCg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jorge\\RiderProjects\\Cities.API\\CityInfo.API.csproj",
+  "projectFilePath": "C:\\Users\\jorge\\RiderProjects\\CityInfo.API\\CityInfo.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jorge\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\jorge\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
