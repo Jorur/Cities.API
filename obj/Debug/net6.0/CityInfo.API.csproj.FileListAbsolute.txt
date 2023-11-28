@@ -455,3 +455,4 @@ C:\Users\jorge\RiderProjects\CityInfo.API\bin\Debug\net6.0\Serilog.Settings.Conf
 C:\Users\jorge\RiderProjects\CityInfo.API\bin\Debug\net6.0\Serilog.Sinks.Console.dll
 C:\Users\jorge\RiderProjects\CityInfo.API\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
 C:\Users\jorge\RiderProjects\CityInfo.API\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\jorge\RiderProjects\CityInfo.API\bin\Debug\net6.0\appsettings.Production.json

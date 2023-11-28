@@ -233,3 +233,4 @@ C:\Users\jorge\RiderProjects\CityInfo.API\obj\Release\net6.0\refint\CityInfo.API
 C:\Users\jorge\RiderProjects\CityInfo.API\obj\Release\net6.0\CityInfo.API.pdb
 C:\Users\jorge\RiderProjects\CityInfo.API\obj\Release\net6.0\CityInfo.API.genruntimeconfig.cache
 C:\Users\jorge\RiderProjects\CityInfo.API\obj\Release\net6.0\ref\CityInfo.API.dll
+C:\Users\jorge\RiderProjects\CityInfo.API\bin\Release\net6.0\appsettings.Production.json
